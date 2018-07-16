@@ -2,8 +2,8 @@
   "name": "basic-assignment-start",
   "version": "0.0.0",
   "scripts": {
-    "start": "node server.js",
-	"postinstall": "ng build --aot -prod"
+    "start": "node server.js"
+	
   },
 
   "private": true,

@@ -41,7 +41,7 @@ module.exports = ""
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"container\">\n    <div class=\"col-xs-12\">\n        <br><br>\n        <P><b>Start 2 Assignment</b></P>\n        <hr>\n        <app-server></app-server>\n    </div>\n</div>\n\n\n"
+module.exports = "<div class=\"container\">\n    <div class=\"col-xs-12\">\n        <br><br>\n        <P><b>Start 2 Assignment</b></P>\n\t\t\n\t\t<ol>\n\t\t  <li>Add a Input field which updates a property ('username') via Two-Way-Binding</li>\n\t\t  <li>Output the username property via String Interpolation (in a paragraph below the input)</li>\n\t\t  <li>Add a button which may only be clicked if the username is NOT an empty string</li>\n\t\t  <li>Upon clicking the button, the username should be reset to an empty string</li>\n\t\t</ol>\n\t\t\n        <hr>\n        <app-server></app-server>\n    </div>\n</div>\n\n\n"
 
 /***/ }),
 
